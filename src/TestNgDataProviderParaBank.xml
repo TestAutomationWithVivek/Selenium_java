@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg Automation Test Suite">
+  <test name="Different TestNg Test Feature Test">
+    <classes>
+      <class name="com.test.TestNgDataProviderFeature"/>
+<!--       <class name="com.test.GoogleTitleTestWithTestNgAssertionFeature"/> -->
+<!--       <class name="com.test.TestNgDependsOnMethodFeature"/> -->
+<!--       <class name="com.test.TestNgInnvocationCountFeature"/> -->
+<!--       <class name="com.test.TestNgBasics"/> -->
+    </classes>
+  </test>
+</suite>

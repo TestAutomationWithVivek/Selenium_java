@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [confugarationSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestClassesConfigurationTest(failed)">
+    <classes>
+      <class name="com.test.GoogleTest1">
+        <methods>
+          <include name="VerifyImagesLink"/>
+          <include name="clickImagesLinki"/>
+          <include name="googleGmailTitleTest"/>
+          <include name="verifyHindiIsNotAvailablePostClickingImages"/>
+        </methods>
+      </class> <!-- com.test.GoogleTest1 -->
+    </classes>
+  </test> <!-- TestClassesConfigurationTest(failed) -->
+</suite> <!-- Failed suite [confugarationSuite] -->
